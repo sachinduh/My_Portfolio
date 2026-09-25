@@ -1,0 +1,28 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/safealert-work-img.jpg",
+      "title": "SafeAlert – UI/UX Case Study",
+      "client": "Smart Emergency Response App",
+      "slug": "https://www.figma.com/proto/fdQcXYYFvwWSUfl4nzQ8Qc/Smart-Emergency-Response-App?node-id=19-660&starting-point-node-id=19%3A660&t=pnqHd8ZduTAa9To3-1"
+    },
+    {
+      "image": "/images/work/careremind-work-img.jpg",
+      "title": "CareRemind App – UI/UX Case Study",
+      "client": "Hospital Appointment Reminder App",
+      "slug": "https://www.figma.com/design/DrM2AJPsUETYuJAF5OGsle/Care-Remind?node-id=0-1&t=m3U4Rs0LMdX7NscY-1"
+    },
+    {
+      "image": "/images/work/expenses-work-img.jpg",
+      "title": "Expenses App – Mobile UI/UX Design",
+      "client": "Company Work Application",
+      "slug": "https://www.figma.com/design/uP4YaWN7kxskOxKzVIOzUP/Expenses-App?node-id=0-1&t=yc9jEyKh4RntkgUb-1"
+    },
+    {
+      "image": "/images/work/landingpage-work-img.jpg",
+      "title": "Landing Page – Web UI/UX Design",
+      "client": "MS Club UWU (Campus Project)",
+      "slug": "https://www.figma.com/design/8lvBKguAU48K2rRaGNCBAm/landing-page?node-id=0-1&t=SqhbCg7zrpSUsH8G-1"
+    }
+  ]
+}
