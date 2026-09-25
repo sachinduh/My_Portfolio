@@ -1,0 +1,88 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "sachinduhimsara06@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:sachinduhimsara06@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+94742563224",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+94742563224"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/sachindu-h-mendis-93666426b"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://facebook.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "BSc in Industrial Information Technology (2024 - Present)",
+        "description": "Undergraduate degree program combining information technology, software engineering, and UI/UX design principles to build user-centered digital solutions."
+      },
+      {
+        "title": "IBM UI/UX Design Capstone Certificate",
+        "description": "Capstone Project: Applying UI/UX Design in the Real World — an online course authorized by IBM and offered through Coursera, covering real-world user research, wireframing, and interactive prototyping.",
+        "link": "https://coursera.org/verify/ANS9YS7UW95W"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Sketch",
+        "icon": "/images/home/education-skill/sketch-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Framer",
+        "icon": "/images/home/education-skill/framer-icon.svg",
+        "rating": 5
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Facebook",
+        "href": "https://facebook.com"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/sachindu-h-mendis-93666426b"
+      },
+      {
+        "title": "WhatsApp",
+        "href": "https://wa.me/94742563224"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "sachinduhimsara06@gmail.com",
+        "link": "mailto:sachinduhimsara06@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+94 74 256 3224",
+        "link": "tel:+94742563224"
+      }
+    ]
+  }
+}
